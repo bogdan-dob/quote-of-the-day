@@ -2,4 +2,4 @@
 
 Receive daily texts with inspirational quotes to start off the morning.
 
-A small project getting to explore Python/
+A small project getting to explore Python.
