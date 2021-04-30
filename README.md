@@ -1,0 +1,1 @@
+Inspirational Quote of the Day
